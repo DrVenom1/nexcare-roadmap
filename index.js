@@ -1,4 +1,4 @@
-import Roadmap from "./roadmap";
+import Roadmap from "../roadmap.js";
 
 export default function Home() {
   return (
